@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^medicines/search$ medicines/search/index.php [L,QSA]
